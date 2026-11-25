@@ -97,7 +97,7 @@ Developed three interactive dashboards:
    
 3. **CLV & Acquisition:** Acquisition spend, customer economics, CAC and LTV analysis.
 
-   ![CLV & Acquisition](tableau/dashboard_screenshots/CLV_SCREENSHOT.png)
+   ![CLV & Acquisition](tableau/dashboard_screenshots/CLV%20&%20Acquisition.png)
 
 
 ## Key Business Findings
