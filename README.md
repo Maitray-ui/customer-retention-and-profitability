@@ -89,7 +89,7 @@ Developed three interactive dashboards:
 
 1. **Executive Overview:** Customer segments, revenue and profitability performance.
 
-   ![Executive Overview](tableau/dashboard_screenshots/EXECUTIVE_SCREENSHOT.png)
+   ![Executive Overview](tableau/dashboard_screenshots/Executive%20overview.png)
    
 2. **Retention & Segmentation:** Cohort retention, customer segmentation and reactivation.
 
