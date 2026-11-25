@@ -179,4 +179,4 @@ customer-retention-and-profitability/
 
 Data Analyst | SQL | Python | Snowflake | Tableau
 
-[GitHub Profile](YOUR_GITHUB_PROFILE_LINK) | [LinkedIn Profile](YOUR_LINKEDIN_PROFILE_LINK)
+[GitHub Profile](https://github.com/Maitray-ui) | [LinkedIn Profile](https://www.linkedin.com/in/maitray-rangari-8609942a3/)
