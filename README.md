@@ -93,7 +93,7 @@ Developed three interactive dashboards:
    
 2. **Retention & Segmentation:** Cohort retention, customer segmentation and reactivation.
 
-   ![Retention & Segmentation](tableau/dashboard_screenshots/RETENTION_SCREENSHOT.png)
+   ![Retention & Segmentation](tableau/dashboard_screenshots/Retention%20and%20segmentation.png)
    
 3. **CLV & Acquisition:** Acquisition spend, customer economics, CAC and LTV analysis.
 
